@@ -1,0 +1,4 @@
+# Fichier gitignore
+Input/
+Test/
+./Day011/d011puzzle2.py
